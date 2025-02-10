@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420697396088",
+    "project_id": "auth-778dc",
+    "storage_bucket": "auth-778dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420697396088:android:91bc5102ad215c5038ee8d",
+        "android_client_info": {
+          "package_name": "com.example.google_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUMNT2409Rq3yR9RoGFOX9_FFTGT-CEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
