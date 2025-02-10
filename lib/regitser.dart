@@ -19,7 +19,7 @@ class _SignInState extends State<SignIn> {
     // Implement Google Sign-In
     final GoogleSignIn googleSignIn = GoogleSignIn(
       clientId:
-          "420697396088-3qu7jmjk7b5hena0nbtmn3ov806o46t9.apps.googleusercontent.com", // Add your client ID here
+          "YOUR_CLIENT_ID.apps.googleusercontent.com", // Add your client ID here
       scopes: ['email'],
     );
     try {
